@@ -7,17 +7,20 @@ pygmentsCodeFences = true
 theme = "hugo-kiera"
 
 [languages]
-
   [languages.en-us]
     weight = 1
+    languageNaandme = "English"
     title = "Another nerdy blog"
+    contentDir = "content/en"
 
   [languages.pt-br]
     weight = 2
+   languageName = "Português"
     title = "Outro blog nerd"
+    contentDir = "content/pt"
 
 [params]
-  tagline = "No bike-shed effect"
+  tagline = "With no bike-shed effect"
 
 [author]
   name          = "Thiago Henrique"
