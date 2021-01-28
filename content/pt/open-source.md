@@ -6,10 +6,10 @@ weight = "10"
 meta = "false"
 +++
 
-Me chamo Thiago e atuo como Engenheiro e Arquiteto de Software.
+* [Herald](https://hexdocs.pm/herald/1-quick-start.html)
 
-Atuo na área de tecnologia a mais de 11 anos, na qual já atuei com infraestrutura, devops, cloud computing, liderança, e claro, engenharia de software e arquitetura de soluções.
+Herald é uma biblioteca ainda em desenvolvimento, a qual pretende ser uma ferramenta que ajudará times de engenharia a implementarem troca de mensagens em Elixir de uma forma simples, fazendo com que os times não tenham que se preocupar com detalhes específicos de broker escolhido, bem como com validação de mensagens e coisas do genero, mas sim com regras de negócio somente.
 
-Sou pós-graduado em Big Data pela FIAP, e atualmente estou trabalhando como Líder Técnico de Engenharia de Software no projeto de [Data Platform](https://semantix.com.br/opengalaxy/) da Semantix.
+* [JunoSQL](http://junosql.github.io/)
 
-Anteriormente, já trabalhei como Líder de Engenharia de Software (a.k.a. CTO) em diversas startups de diferentes segmentos, como Logística, Pagamentos Digitais, _Health Tech_, usando as mais diversas tecnologias, como Golang, Elixir, Ruby, Python e node.js.
+JunoSQL é uma ferramenta em desenvolvimento que pretende ser uma ferramenta web flexível para exploração e visualização de dados, inspirada no [SQLPad](https://sqlpad.github.io/sqlpad/).
