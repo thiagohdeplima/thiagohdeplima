@@ -9,7 +9,7 @@ theme = "hugo-kiera"
 [languages]
   [languages.en-us]
     weight = 1
-    languageNaandme = "English"
+    languageName = "English"
     title = "Another nerdy blog"
     contentDir = "content/en"
 
