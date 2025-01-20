@@ -7,7 +7,7 @@ My name is Thiago, I'm Experienced Software Engineer and Architect
 
 I have more than 15 years of experience and have worked with infrastructure, cloud computing, software engineering/architecture, futhermore some experience with team management and leadership.
 
-Nowadays, I'm working as Staff Engineer in Rappi, being the responsible for technical strategy of the company's Restaurants vertical
+Nowadays, I'm working as Infrastructure & Tooliing Engineer in NoRedInk
 
 ## Get in touch
 
